@@ -9,12 +9,12 @@ I've tried to document and comment everything possible.
 
 ## Disclaimer
 
-I haven't solved everything by myself. I've
+I haven't solved everything myself. I've
 
 * Read the discussion boards.
 * Read other repositories.
 * Googled concepts.
-* Taken ideas from Blog posts.
+* Taken ideas from blog posts.
 
 
 ## Guide for beginners like me :) 
@@ -28,7 +28,7 @@ Many CodeChef problems are expalined in their blogs. Do read them if you have an
 
 4. Alterantively you can also have a look in this repo. The file is named after the problem on CodeChef.
 
-5. Press Ctrl + F or search with the problem name. If I've solved it, you'll find it here.
+5. Press Ctrl + F or search with the problem name. **If** I've solved it, you'll find it here.
 
 ## Notify Me
 
