@@ -33,8 +33,4 @@ Many CodeChef problems are expalined in their blogs. Do read them if you have an
 ## Notify Me
 
 I'm new to programming and I'm sure that my solutions aren't the best.
-If you find better solutions, please let me know via Twitter, Linkedin or Quora.
-
-* Twitter:-   [twitter.com/abhirathmahipal](twitter.com/abhirathmahipal)
-* Linkedin:-  [linkedin.com/in/abhirath-mahipal-b9b866b3](linkedin.com/in/abhirath-mahipal-b9b866b3)
-* Quora:-     [quora.com/profile/Abhirath-Mahipal](quora.com/profile/Abhirath-Mahipal)
+If you find better solutions, please let me know via [Twitter](https://twitter.com/abhirathmahipal)
